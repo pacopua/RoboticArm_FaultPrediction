@@ -8,7 +8,7 @@ COLUMNAS_A_ELIMINAR = ['Num', 'Timestamp']
 # ==========================================
 
 # 1. Cargar el dataset
-df = pd.read_csv('robot_dataset.csv')
+df = pd.read_csv('../dataset/robot_dataset.csv')
 
 # 2. Eliminar columnas innecesarias (Num y Timestamp)
 # Usamos errors='ignore' por si el código se ejecuta sobre un archivo que ya no las tiene

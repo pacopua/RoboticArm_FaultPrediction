@@ -1,9 +1,10 @@
-numpy
-matplotlib
-seaborn
-scikit-learn
 imbalanced-learn
-torch
-statsmodels
 ipykernel
+matplotlib
+numpy
 pandas
+scikit-learn
+scipy
+seaborn
+statsmodels
+torch
